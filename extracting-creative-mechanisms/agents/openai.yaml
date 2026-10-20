@@ -1,0 +1,4 @@
+interface:
+  display_name: "创意机制提炼"
+  short_description: "从视觉案例提炼出奇操作与可复用辅助方法，区分观察、假设和事实"
+  default_prompt: "使用 $extracting-creative-mechanisms 从我的素材或保存分析提炼独立创意方法与可选配方，先给简明结论。"
